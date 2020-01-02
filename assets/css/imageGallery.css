@@ -1,0 +1,24 @@
+body {
+    /* so our content wont get behind the navbar*/
+    padding: 70px;
+}
+
+
+.jumbotron {
+    font-family: 'Roboto Mono', monospace;
+    color: #394A3D;
+    background:lightgray;
+    max-width: 1045px;
+    
+}
+.gallery {
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.gallery:hover {
+    transform: scale(1.5);
+    border: 1px solid black;
+    cursor: zoom-out;
+    padding: 0px;
+}

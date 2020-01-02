@@ -1,0 +1,9 @@
+creating a simple image gallery using 
+1.icons, 
+2.tumbnails, 
+3.images, 
+4.navbar,
+5.jumbotron
+6.grid system
+7.google fonts and 
+8.cursor responsiveness.
